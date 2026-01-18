@@ -24,11 +24,7 @@ Replace links + repo names where needed.
 
 <br/>
 
-<!-- GitHub Stats (swap username if needed) -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Victor-Dixon&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Victor-Dixon" />
 
-</div>
 
 ---
 
