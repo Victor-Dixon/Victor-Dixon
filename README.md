@@ -10,7 +10,13 @@ Replace links + repo names where needed.
 ### Architect of autonomous swarms… building systems that build themselves.
 
 <br/>
+<!-- Badges -->
+<img src="https://img.shields.io/badge/Focus-Autonomous%20Engineering-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mode-Closure--First-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20Docker%20%7C%20CI%2FCD-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Build-Swarm%20%2B%20SSOT%20%2B%20Validation-000000?style=for-the-badge" />
 
+<br/><br/>
 
 
 <!-- WOW one-liner -->
