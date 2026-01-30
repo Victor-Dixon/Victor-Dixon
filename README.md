@@ -6,8 +6,8 @@ Replace links + repo names where needed.
 
 <div align="center">
 
-# ⚔️ Victor Dixon
-### Architect of autonomous swarms… building systems that build themselves.
+<h1>⚔️ Victor Dixon</h1>
+<h3>Architect of autonomous swarms… building systems that build themselves.</h3>
 
 <br/>
 <!-- Badges -->
@@ -16,14 +16,23 @@ Replace links + repo names where needed.
 <img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20Docker%20%7C%20CI%2FCD-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Build-Swarm%20%2B%20SSOT%20%2B%20Validation-000000?style=for-the-badge" />
 
+<br/>
+<!-- Shipping signals -->
+<a href="https://github.com/Victor-Dixon/Dream.os/actions/workflows/ci-cd.yml">
+  <img src="https://github.com/Victor-Dixon/Dream.os/actions/workflows/ci-cd.yml/badge.svg" alt="Dream.OS CI/CD" />
+</a>
+<a href="https://github.com/Victor-Dixon/Dream.os/actions/workflows/ssot_duplication_monitor.yml">
+  <img src="https://github.com/Victor-Dixon/Dream.os/actions/workflows/ssot_duplication_monitor.yml/badge.svg" alt="SSOT Duplication Monitor" />
+</a>
+
 <br/><br/>
 
-
 <!-- WOW one-liner -->
-> **I don’t “code” projects… I engineer ecosystems that self-correct, self-coordinate, and ship.**
+<strong>I don’t “code” projects… I engineer ecosystems that self-correct, self-coordinate, and ship.</strong>
+
+</div>
 
 <br/>
-
 
 
 ---
@@ -35,6 +44,13 @@ I’m building **Dream.OS**… a self-healing automation engine that runs **mult
 - **Governance:** SSOT, validation rituals, test gates, drift prevention
 - **Reliability:** “act → self-correct → converge” feedback loops
 - **Outcome:** faster iteration **without** turning the codebase into a landfill
+
+---
+
+## 🚀 Start here
+- **Watch a 2-min demo:** request the private link → https://github.com/Victor-Dixon/Dream.os/issues/new?title=Demo%20request
+- **Read the architecture overview:** Dream.OS README → https://github.com/Victor-Dixon/Dream.os#readme
+- **Try the flagship repo:** Dream.OS → https://github.com/Victor-Dixon/Dream.os
 
 ---
 
@@ -81,17 +97,24 @@ Want a “single command” that bootstraps order out of chaos… that’s my la
 
 ---
 
-## 🛰️ Featured Repos
-- Dream.OS: https://github.com/Victor-Dixon/Dream.os
-- (Add more here): put your top 3 revenue / flagship builds
+## 🤝 How to work with me
+- **Open to:** consulting/advisory, multi-agent orchestration, automation pipelines, validation guardrails
+- **Best contact:** open a short issue in Dream.OS → https://github.com/Victor-Dixon/Dream.os/issues/new
+- **Include:** goal, current stack, timeline, constraints, and success metric
 
 ---
 
-## 📌 Quick link hub
-- Website / Hub: (add)
-- Twitter / X: (add)
-- YouTube / Twitch: (add)
-- Discord: (add)
+## 🛰️ Featured Repos
+- **Dream.OS** — multi-agent orchestration + self-healing automation: https://github.com/Victor-Dixon/Dream.os
+- **ProjectScanner** — repo scanning → structured context exports: https://github.com/Victor-Dixon/projectscanner
+- **AgentTools** — automation utilities + ops tooling: https://github.com/Victor-Dixon/AgentTools
+
+---
+
+## 🔗 Links
+- **Hub / Portfolio:** https://github.com/Victor-Dixon/victor-dixon-portfolio
+- **GitHub:** https://github.com/Victor-Dixon
+- **Contact (issues):** https://github.com/Victor-Dixon/Dream.os/issues/new
 
 ---
 
