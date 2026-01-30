@@ -104,29 +104,29 @@ Want a “single command” that bootstraps order out of chaos… that’s my la
 
 ---
 
-## 🛰️ Featured Repos (Start Here)
-- **Dream.OS** — multi-agent orchestration + self-healing automation: https://github.com/Victor-Dixon/Dream.os
-- **Thea** — gamified agent training + MMORPG mechanics: https://github.com/Victor-Dixon/Thea
-- **SWARM** — enterprise swarm orchestration platform: https://github.com/Victor-Dixon/SWARM
-- **ProjectScanner** — repo scanning → structured reports for audits/portfolios: https://github.com/Victor-Dixon/projectscanner
-- **MeTuber** — YouTube automation + channel ops platform: https://github.com/Victor-Dixon/MeTuber
-- **Auto_Blogger** — WordPress automation + content generation: https://github.com/Victor-Dixon/Auto_Blogger
-- **AgentTools** — scripts/utilities for automation + infra: https://github.com/Victor-Dixon/AgentTools
+## Featured Repos (Start Here)
+- Dream.OS — multi-agent orchestration + self-healing automation: https://github.com/Victor-Dixon/Dream.os
+- Thea — gamified agent training + MMORPG mechanics: https://github.com/Victor-Dixon/Thea
+- SWARM — enterprise swarm orchestration platform: https://github.com/Victor-Dixon/SWARM
+- ProjectScanner — repo scanning → structured reports for audits/portfolios: https://github.com/Victor-Dixon/projectscanner
+- MeTuber — YouTube automation + channel ops platform: https://github.com/Victor-Dixon/MeTuber
+- Auto_Blogger — WordPress automation + content generation: https://github.com/Victor-Dixon/Auto_Blogger
+- AgentTools — scripts/utilities for automation + infra: https://github.com/Victor-Dixon/AgentTools
 
 ---
 
-## 🗂️ Project Index (Everything Else)
-- **Portfolio hub (27 projects):** https://github.com/Victor-Dixon/victor-dixon-portfolio
+## Project Index (Everything Else)
+- Portfolio hub (27 projects): https://github.com/Victor-Dixon/victor-dixon-portfolio
 
 ---
 
-## 🧭 Project Buckets (quick map)
-- **Content Ops:** MeTuber, Streamertools, socialmediamanager, Auto_Blogger
-- **Security:** network-scanner
-- **ML:** machinelearningmodelmaker, LSTMmodel_trainer
-- **Biz Automation:** contract-leads
-- **Games/Worldbuilding:** HCshinobi, Superpowered-TTRPG, Mods
-- **Utilities:** Flowr, organizer-validation, FocusForge
+## Project Buckets (quick map)
+- Content Ops: MeTuber, Streamertools, socialmediamanager, Auto_Blogger
+- Security: network-scanner
+- ML: machinelearningmodelmaker, LSTMmodel_trainer
+- Biz Automation: contract-leads
+- Games/Worldbuilding: HCshinobi, Superpowered-TTRPG, Mods
+- Utilities: Flowr, organizer-validation, FocusForge
 
 ---
 
