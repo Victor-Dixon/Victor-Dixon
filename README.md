@@ -1,45 +1,38 @@
 # Victor Dixon
 
-AI automation builder focused on multi-agent workflows, repo consolidation, deployment tooling, and proof-driven execution.
+AI automation developer building operator tools, repo intelligence, deployment workflows, and proof-driven multi-agent systems.
 
-I build systems that turn messy project work into verified artifacts: task YAML, terminal reports, promotion manifests, test gates, dashboards, and deployable web surfaces.
+I work best where software is messy, useful, and half-built: turning scattered scripts, repos, dashboards, and agent output into systems that can be verified, reused, and handed to a real operator.
 
-## Core Work
+## Current Focus
 
-| Area | Focus |
+- Multi-agent workflow infrastructure for Dream.OS: task routing, verification gates, closeout artifacts, and operator control surfaces.
+- Repository intelligence and cleanup tooling: project inventories, branch hygiene, public/private portfolio triage, and consolidation reports.
+- Deployment and website operations: static site surfaces, command-center publishing, domain routing, and live verification.
+- Automation products in progress: trading workflow tooling, outreach/revenue loops, creator utilities, and homeschool learning tools.
+
+## Public Portfolio
+
+| Project | What it shows |
 | --- | --- |
-| Dream.OS | Multi-agent task execution, verification gates, operator workflows |
-| ProjectScanner | Repo intelligence, cleanup planning, consolidation reports |
-| DreamVault | Canonical storage for reports, manifests, task artifacts, and execution memory |
-| Websites | Public deployment surfaces, client demos, static builds, and domain automation |
-| AgentTools | Reusable automation tooling for agent/operator lanes |
+| [AgentTools](https://github.com/Victor-Dixon/AgentTools) | Reusable Python utilities, automation helpers, scanner scripts, and operational tooling for agent/operator lanes. |
+| [projectscanner](https://github.com/Victor-Dixon/projectscanner) | Repo inventory, scan target generation, cleanup planning, and consolidation proof artifacts. |
+| [network-scanner](https://github.com/Victor-Dixon/network-scanner) | Cybersecurity utility work around local network scanning, host discovery, and security experimentation. |
+| [HomeSchool_Mastery](https://github.com/Victor-Dixon/HomeSchool_Mastery) | Education/product workspace for homeschool planning, learning assistance, and portfolio review. |
 
-## Professional Services
+Some of my strongest work lives in private or operational repos while I consolidate the public surface: DreamVault, Dream.OS runtime lanes, websites/deployment systems, and command-center tooling.
 
-- Repo cleanup and consolidation
-- AI-assisted workflow automation
-- Static and business website deployment
-- Internal tool dashboards
-- Verification gates and proof reports
-- Automation scripts for repeatable operations
+## Developer Profile
 
-## Operating Style
+- **Languages:** Python, JavaScript/TypeScript, HTML/CSS, PowerShell, Bash
+- **Systems:** GitHub Actions, static deployments, CLI tooling, JSON/YAML artifacts, test gates, operator dashboards
+- **Strengths:** automation, repo cleanup, agent workflows, proof reports, deployment verification, product-minded tooling
+- **Working style:** ship small, verify the output, preserve salvageable work, and leave a readable artifact trail
 
-- Small safe changes
-- Testable outputs
-- Clear reports
-- Promotion manifests before merges
-- Salvage before destructive cleanup
-- Verification before deployment
+## Project Resume
 
-## Featured Repositories
+I keep a fuller project resume in [PROJECT_RESUME.md](PROJECT_RESUME.md).
 
-- `websites` - public web deployment hub and domain surfaces
-- `DreamVault` - canonical intelligence vault for Dream.OS
-- `projectscanner` - repo intelligence and cleanup tooling
-- `AgentTools` - multi-agent/operator toolbelt
-- `MeTuber` - video tooling and creator automation experiment
+## Availability
 
-## Contact
-
-Available for automation, cleanup, deployment, and internal tooling work.
+Open to automation, internal tooling, repo cleanup, deployment, dashboard, and AI-assisted workflow work.
