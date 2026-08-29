@@ -1,38 +1,62 @@
 # Victor Dixon
 
-AI automation developer building operator tools, repo intelligence, deployment workflows, and proof-driven multi-agent systems.
+**Automation Developer · AI Workflow Engineer · Internal Tools Builder**
 
-I work best where software is messy, useful, and half-built: turning scattered scripts, repos, dashboards, and agent output into systems that can be verified, reused, and handed to a real operator.
+I build Python automation, multi-agent workflows, repository intelligence, deployment systems, APIs, and verification tooling. My strongest work sits at the intersection of software development and technical operations: taking messy, repetitive engineering work and turning it into bounded workflows that can be tested, inspected, and repeated.
 
-## Current Focus
+I am actively moving toward full-time software and automation work while continuing to build production-style systems outside my current role.
 
-- Multi-agent workflow infrastructure for Dream.OS: task routing, verification gates, closeout artifacts, and operator control surfaces.
-- Repository intelligence and cleanup tooling: project inventories, branch hygiene, public/private portfolio triage, and consolidation reports.
-- Deployment and website operations: static site surfaces, command-center publishing, domain routing, and live verification.
-- Automation products in progress: trading workflow tooling, outreach/revenue loops, creator utilities, and homeschool learning tools.
+## What I Build
 
-## Public Portfolio
+- **Multi-agent automation:** typed task messages, routing, claim/ack lifecycles, conflict controls, verification gates, and operator closeouts.
+- **Developer/internal tooling:** Python CLIs, repository scanners, cleanup automation, manifests, and proof reports.
+- **Deployment systems:** changed-site resolution, strict dry-runs, SFTP publishing, live HTTPS verification, and rollback-aware workflows.
+- **Web/API systems:** JavaScript/TypeScript surfaces, static sites, backend integrations, and operator control planes.
+- **Reliability workflows:** targeted regression tests, negative controls, source-of-truth checks, and evidence-backed closure.
 
-| Project | What it shows |
+## Featured Portfolio
+
+| Project | What it demonstrates |
 | --- | --- |
-| [AgentTools](https://github.com/Victor-Dixon/AgentTools) | Reusable Python utilities, automation helpers, scanner scripts, and operational tooling for agent/operator lanes. |
-| [projectscanner](https://github.com/Victor-Dixon/projectscanner) | Repo inventory, scan target generation, cleanup planning, and consolidation proof artifacts. |
-| [network-scanner](https://github.com/Victor-Dixon/network-scanner) | Cybersecurity utility work around local network scanning, host discovery, and security experimentation. |
-| [HomeSchool_Mastery](https://github.com/Victor-Dixon/HomeSchool_Mastery) | Education/product workspace for homeschool planning, learning assistance, and portfolio review. |
+| [AgentTools / WE ARE SWARM](https://github.com/Victor-Dixon/AgentTools) | Python multi-agent coordination, messaging, shared memory, consensus, conflict detection, work proof, CLI/MCP-oriented tooling. |
+| [ProjectScanner](https://github.com/Victor-Dixon/projectscanner) | Repository scanning, structure extraction, GitHub/local inventory, JSON/Markdown evidence exports, cleanup and consolidation intelligence. |
+| [Network Scanner](https://github.com/Victor-Dixon/network-scanner) | Local network discovery and cybersecurity utility work. |
+| [HomeSchool Mastery](https://github.com/Victor-Dixon/HomeSchool_Mastery) | Product-oriented education tooling and practical automation. |
 
-Some of my strongest work lives in private or operational repos while I consolidate the public surface: DreamVault, Dream.OS runtime lanes, websites/deployment systems, and command-center tooling.
+Some of my larger systems are private while they are being consolidated and hardened. I document the engineering decisions and verified outcomes without exposing private configuration.
 
-## Developer Profile
+## Resume + Case Studies
+
+- **[Software / Automation Resume](RESUME.md)**
+- **[Engineering Case Studies](CASE_STUDIES.md)**
+- **[Extended Project Resume](PROJECT_RESUME.md)**
+
+Case studies include:
+
+1. Dream.OS guarded multi-agent repository automation.
+2. AgentTools / WE ARE SWARM coordination infrastructure.
+3. ProjectScanner evidence-first repository intelligence.
+4. Governed multi-domain deployment automation.
+5. Regression-driven message-bus runtime recovery.
+
+## Technical Profile
 
 - **Languages:** Python, JavaScript/TypeScript, HTML/CSS, PowerShell, Bash
-- **Systems:** GitHub Actions, static deployments, CLI tooling, JSON/YAML artifacts, test gates, operator dashboards
-- **Strengths:** automation, repo cleanup, agent workflows, proof reports, deployment verification, product-minded tooling
-- **Working style:** ship small, verify the output, preserve salvageable work, and leave a readable artifact trail
+- **Engineering:** Git/GitHub, REST APIs, pytest, JSON/YAML contracts, CLI tooling, regression testing
+- **Infrastructure:** Linux, Nginx, Tailscale, SFTP, GitHub Actions, domain/static-site operations
+- **Core strengths:** automation, debugging, repo intelligence, multi-agent systems, deployment verification, operator tooling
 
-## Project Resume
+## Roles I Am Targeting
 
-I keep a fuller project resume in [PROJECT_RESUME.md](PROJECT_RESUME.md).
+- Automation Developer
+- Junior Software Developer
+- Implementation Specialist / Implementation Engineer
+- QA / Test Automation
+- Technical Project Coordinator
+- Technical / Application Support
+- Internal Tools Developer
+- AI Workflow / Agent Automation Engineer
 
-## Availability
+## Working Principle
 
-Open to automation, internal tooling, repo cleanup, deployment, dashboard, and AI-assisted workflow work.
+> Classify the real problem, make the smallest safe change, verify the real path, preserve the evidence, and close cleanly.
