@@ -1,81 +1,75 @@
 # Victor Dixon
 
-**Automation Developer · AI Workflow Engineer · Internal Tools Builder**
+**Automation Developer · Systems Builder · AI Workflow Engineer**
 
-I build Python automation, multi-agent workflows, APIs, repository intelligence, deployment systems, testing/verification tooling, and local-first applications. My strongest work sits at the intersection of software development and technical operations: taking messy or repetitive engineering work and turning it into bounded workflows that can be tested, inspected, recovered, and repeated.
+I build Python automation, multi-agent systems, APIs, repository intelligence, deployment tooling, and local-first applications. My work is centered on making automation **bounded, testable, inspectable, and recoverable** rather than treating generated code as completion.
 
-I am actively moving from armed security into full-time software/automation work while continuing to build production-style systems and targeted technical credentials.
+## Engineering Proof First
 
-## What I Build
+If you are reviewing this profile for engineering ability, start here:
 
-- **Multi-agent automation:** typed task messages, routing, claim/ack lifecycles, shared state, conflict controls, verification gates, and operator closeouts.
-- **Developer/internal tooling:** Python CLIs, repository scanners, Git/GitHub governance, cleanup automation, manifests, and proof reports.
-- **Backend/API systems:** FastAPI, Flask/Jinja, SQLite, REST APIs, protected service operations, JSON/YAML contracts, and feed/export pipelines.
-- **Deployment and technical operations:** GitHub Actions, Linux/VPS, Nginx, Tailscale, systemd, Docker, SFTP publishing, live HTTPS verification, and rollback-aware workflows.
-- **Testing and reliability:** pytest, regression tests, negative controls, smoke tests, real-path verification, fail-closed enforcement, and source-of-truth checks.
-- **Applied product work:** trading/backtesting, education software, defensive networking, computer-vision/creator tools, social automation, local AI operations, and Roblox/game systems.
+**[ENGINEERING_PROOF.md](ENGINEERING_PROOF.md)** — a 10-minute review path through runnable public code, CI/test gates, known limitations, and representative architecture decisions.
 
-## Featured Portfolio
+| Public project | What to inspect | Verification signal |
+| --- | --- | --- |
+| **[AgentTools / WE ARE SWARM](https://github.com/Victor-Dixon/AgentTools)** | Python package structure, multi-agent coordination, MCP/CLI entry points, conflict/work-proof systems | GitHub Actions runs pytest, coverage/import checks, security scan, and import audit |
+| **[ProjectScanner](https://github.com/Victor-Dixon/projectscanner)** | Repository scanning, source-structure extraction, JSON/Markdown evidence exports, explicit known unknowns | `pytest -q` regression gate and reproducible local scan path |
+| **[Network Scanner](https://github.com/Victor-Dixon/network-scanner)** | ARP discovery, TCP/banner helpers, vulnerability/reputation tooling, experimental anomaly detection | Documented 56-test passing regression audit plus explicit non-production boundaries |
+| **[HomeSchool Mastery](https://github.com/Victor-Dixon/HomeSchool_Mastery)** | Flask/Jinja/SQLite app, student/admin workflows, local persistence, mastery/game systems | Canonical pytest suite plus explicit learner-data safety guidance |
 
-| Project | What it demonstrates |
-| --- | --- |
-| [AgentTools / WE ARE SWARM](https://github.com/Victor-Dixon/AgentTools) | Python multi-agent coordination, messaging, shared memory, consensus, conflict detection, work proof, CLI/MCP-oriented tooling. |
-| [ProjectScanner](https://github.com/Victor-Dixon/projectscanner) | Repository scanning, source-structure extraction, GitHub/local inventory, JSON/Markdown evidence exports, cleanup and consolidation intelligence. |
-| [Network Scanner](https://github.com/Victor-Dixon/network-scanner) | Defensive Python networking, host discovery, TCP/banner helpers, vulnerability lookup, reputation integration, testing and anomaly research. |
-| [HomeSchool Mastery](https://github.com/Victor-Dixon/HomeSchool_Mastery) | Flask/Jinja/SQLite local-first learning platform with lessons, practice, games, mastery, parent/admin controls and optional local AI. |
+### What I optimize for
 
-Larger private systems include Dream.OS, DreamVault, Dream.OS Swarm Brain, governed website/deployment infrastructure, TradingRobotPlug, GitHub Architect Bot, MeTuber, Digital Dreamscape, FocusForge, Thea/Dreamscape and supporting automation/data infrastructure. Their engineering is represented through sanitized case studies and capability evidence rather than exposed private configuration.
+- **Real verification:** tests, CI, diffs, runtime reports, live HTTP/API checks, and negative controls.
+- **Explicit boundaries:** canonical source, generated output, salvage, historical evidence, and runtime state are treated differently.
+- **Recoverability:** rollback paths, branch/commit locks, manifests, backups, and fail-closed behavior where appropriate.
+- **Honest maturity:** incomplete, blocked, research, prototype, and legacy paths are labeled instead of marketed as finished products.
+- **Operational ownership:** I work across implementation, Git/GitHub, Linux/VPS, networking, deployment, debugging, and closeout—not only code generation.
 
-## Application Pack
+## Core Engineering Areas
 
-- **[ATS One-Page Resume](RESUME_ATS_ONE_PAGE.md)** — default resume for fast recruiter and ATS review.
-- **[Application Pack Guide](APPLICATION_PACK.md)** — which resume to use, tailoring gate, interview proof order, and target role families.
-- **[ATS Keyword Map](ATS_KEYWORD_MAP.md)** — evidence-backed keywords by software, automation, QA, implementation, and technical-operations lane.
+- **Automation & multi-agent systems:** typed task messages, routing, claim/ack lifecycles, shared state, conflict controls, verification gates, and operator closeouts.
+- **Backend & data:** FastAPI, Flask/Jinja, REST APIs, SQLite, JSON/YAML contracts, feed/export pipelines, and retrieval/RAG workflows.
+- **Developer tooling:** Python CLIs, repository scanners, GitHub governance, cleanup/consolidation automation, manifests, and evidence reports.
+- **Testing & reliability:** pytest, regression tests, TDD, smoke tests, negative controls, real-path verification, and fail-closed validation.
+- **Infrastructure & deployment:** GitHub Actions, Linux/Ubuntu, Nginx, Tailscale, systemd, Docker/Compose, SFTP, HTTPS verification, and rollback-aware delivery.
+- **Applied systems:** education software, defensive networking, deterministic backtesting/paper-trading systems, OpenCV/PyQt creator tooling, local LLM operations, and Roblox/Rojo systems.
 
-## Resume + Evidence Layers
+## Larger Systems
 
-- **[Master Resume](RESUME.md)** — balanced software/automation profile.
-- **[Automation / Software Resume](RESUME_AUTOMATION_SOFTWARE.md)** — targeted toward automation, AI workflow, internal tools, QA and junior software roles.
-- **[Technical Implementation / Operations Resume](RESUME_TECHNICAL_IMPLEMENTATION.md)** — targeted toward implementation, technical operations, application support and technical project roles.
-- **[Engineering Case Studies](CASE_STUDIES.md)** — problem → approach → verification → outcome.
-- **[Capability Matrix](CAPABILITY_MATRIX.md)** — full evidence-backed skills inventory with maturity labels.
-- **[Extended Project Resume](PROJECT_RESUME.md)** — detailed project and domain breadth.
-- **[Project Index](PROJECT_INDEX.md)** — portfolio inventory and recruiter-use classification.
+Several larger systems are private because they contain operational infrastructure, governance state, deployment configuration, or other non-public working material. I represent those through sanitized engineering evidence rather than asking reviewers to trust private repository claims.
 
-## Representative Case Studies
+Representative systems:
 
-1. Dream.OS guarded multi-agent repository automation.
-2. AgentTools / WE ARE SWARM coordination infrastructure.
-3. ProjectScanner evidence-first repository intelligence.
-4. Governed multi-domain deployment automation.
-5. Regression-driven message-bus runtime recovery.
-6. FastAPI/SQLite Dream.OS Swarm Brain service.
-7. TradingRobotPlug deterministic backtesting and paper-readiness boundaries.
-8. HomeSchool Mastery local-first education platform.
-9. Tailnet-only private operator/API gateway.
-10. Network Scanner defensive networking/test hardening.
-11. MeTuber real-time OpenCV/PyQt creator tooling.
+- **Dream.OS** — message-driven multi-agent repository automation runtime.
+- **DreamVault** — governance, evidence, planning, provenance, and retrieval layer.
+- **Dream.OS Swarm Brain** — FastAPI/SQLite live-state and planner service.
+- **Governed website fleet** — changed-site resolution, strict dry-run, SFTP deployment, live HTTPS verification, and rollback controls.
+- **TradingRobotPlug** — deterministic backtesting, paper-execution evidence, and explicit live-readiness boundaries.
+- **GitHub Architect Bot** — evidence-first portfolio audits, task/planner synthesis, branch governance, and guarded repository operations.
+
+See **[Engineering Case Studies](CASE_STUDIES.md)** for problem → approach → verification → outcome breakdowns.
 
 ## Technical Profile
 
-- **Languages:** Python, JavaScript/TypeScript, HTML/CSS, PowerShell, Bash; project experience with Luau and Java
-- **Backend/data:** FastAPI, Flask/Jinja, REST APIs, SQLite, JSON/YAML contracts, RAG/retrieval and feed/export workflows
-- **Engineering:** Git/GitHub, pytest, regression/negative-control testing, CLI tooling, debugging, repository governance
-- **Infrastructure:** Linux/Ubuntu, Nginx, Tailscale, systemd, Docker/Compose, SFTP, GitHub Actions, domain/static-site operations
-- **Applied breadth:** OpenCV/PyQt, defensive networking, deterministic backtesting/paper trading, Ollama/local AI operations, Roblox/Rojo
+**Languages:** Python, JavaScript/TypeScript, HTML/CSS, PowerShell, Bash; project experience with Java and Luau  
+**Backend/Data:** FastAPI, Flask/Jinja, REST APIs, SQLite, JSON/YAML, feed/export pipelines, retrieval/RAG  
+**Engineering:** Git/GitHub, pytest, regression/negative-control testing, CLI tooling, debugging, repository governance  
+**Infrastructure:** Linux/Ubuntu, Nginx, Tailscale, systemd, Docker/Compose, SFTP, GitHub Actions  
+**Additional:** PyQt/OpenCV, defensive networking, deterministic backtesting, Ollama/local AI operations, Roblox/Rojo
 
-## Roles I Am Targeting
+## Resume & Application Material
 
-- Automation Developer
-- Junior Software Developer
-- AI Workflow / Agent Automation Engineer
-- Internal Tools Developer
-- Implementation Specialist / Implementation Engineer
-- QA / Test Automation
-- Technical Operations
-- Technical / Application Support
-- Technical Project Coordinator
+- **[ATS One-Page Resume](RESUME_ATS_ONE_PAGE.md)** — concise application version.
+- **[Automation / Software Resume](RESUME_AUTOMATION_SOFTWARE.md)** — automation, internal tools, QA, AI workflow, junior software.
+- **[Technical Implementation / Operations Resume](RESUME_TECHNICAL_IMPLEMENTATION.md)** — implementation, technical operations, application support.
+- **[Capability Matrix](CAPABILITY_MATRIX.md)** — evidence-backed capability inventory with maturity labels.
+- **[Project Index](PROJECT_INDEX.md)** — portfolio inventory and project-maturity boundaries.
+- **[Application Pack Guide](APPLICATION_PACK.md)** — role-family selection and tailoring workflow.
 
-## Working Principle
+## Primary Role Direction
+
+**Automation / internal tools / AI workflow engineering**, with adjacent fit for implementation engineering, QA/test automation, backend development, and technical operations.
+
+## Engineering Principle
 
 > Classify the real problem, make the smallest safe change, verify the real path, preserve the evidence, and close cleanly.
