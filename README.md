@@ -26,6 +26,12 @@ I am actively moving from armed security into full-time software/automation work
 
 Larger private systems include Dream.OS, DreamVault, Dream.OS Swarm Brain, governed website/deployment infrastructure, TradingRobotPlug, GitHub Architect Bot, MeTuber, Digital Dreamscape, FocusForge, Thea/Dreamscape and supporting automation/data infrastructure. Their engineering is represented through sanitized case studies and capability evidence rather than exposed private configuration.
 
+## Application Pack
+
+- **[ATS One-Page Resume](RESUME_ATS_ONE_PAGE.md)** — default resume for fast recruiter and ATS review.
+- **[Application Pack Guide](APPLICATION_PACK.md)** — which resume to use, tailoring gate, interview proof order, and target role families.
+- **[ATS Keyword Map](ATS_KEYWORD_MAP.md)** — evidence-backed keywords by software, automation, QA, implementation, and technical-operations lane.
+
 ## Resume + Evidence Layers
 
 - **[Master Resume](RESUME.md)** — balanced software/automation profile.
