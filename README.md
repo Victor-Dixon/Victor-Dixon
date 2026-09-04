@@ -1,12 +1,12 @@
 # Victor Dixon
 
-**Automation Developer · AI Systems Orchestrator · Multi-Agent Workflow Builder**
+**Automation Developer · AI Systems Orchestrator · SaaS Builder**
 
 I build Python automation, multi-agent systems, developer tooling, repository intelligence, deployment workflows, and local-first applications.
 
-I use AI coding agents aggressively. My role is not pretending every generated line was hand-written — it is **architecting the system, decomposing work, defining authority boundaries, directing parallel agents, designing verification gates, classifying failures, and deciding what is safe to promote**.
+I use AI coding agents as engineering leverage. I own the parts that determine whether the output is actually useful: **system architecture, task decomposition, authority boundaries, parallel-agent orchestration, verification strategy, integration decisions, and release readiness**.
 
-In plain terms: I vibe-code with a swarm, then make the swarm prove its work.
+My focus is increasingly commercial: turning proven automation capabilities into **focused SaaS products, internal tools, and client-ready systems** rather than building technology without a path to adoption or revenue.
 
 ## Engineering Proof First
 
@@ -21,7 +21,7 @@ If you are reviewing this profile for engineering ability, start here:
 | **[Network Scanner](https://github.com/Victor-Dixon/network-scanner)** | ARP discovery, TCP/banner helpers, vulnerability/reputation tooling, experimental anomaly detection | Documented regression testing plus explicit non-production boundaries |
 | **[HomeSchool Mastery](https://github.com/Victor-Dixon/HomeSchool_Mastery)** | Flask/Jinja/SQLite app, student/admin workflows, local persistence, mastery/game systems | Canonical pytest suite plus explicit learner-data safety guidance |
 
-## What I Actually Do With AI
+## How I Work With AI
 
 My workflow is orchestration-first:
 
@@ -48,6 +48,19 @@ I optimize for:
 - **Salvage before deletion:** historical branches are classified and mined for bounded capabilities before destructive cleanup.
 - **Honest status:** implemented, locally verified, merged, deployed, live-verified, and complete are different states.
 
+## Current Product Direction
+
+I am working toward a focused SaaS/product lane built from the strongest reusable parts of my automation stack:
+
+- AI-assisted workflow automation
+- multi-agent task orchestration
+- repository and project intelligence
+- verification and evidence pipelines
+- internal-tool and operator dashboards
+- governed deployment and closeout workflows
+
+The goal is not to turn every experiment into a product. The goal is to identify a narrow problem, ship something useful, get it in front of real users, and build toward recurring revenue.
+
 ## Recent Dream.OS / DreamVault Engineering
 
 Recent private-system work includes:
@@ -63,7 +76,7 @@ Recent private-system work includes:
 - Built append-only **execution-ledger hooks and MCP tooling** for claims, closeouts, scanner attestations, and tool events; focused verification reached **47 tests** for the hook layer and **16 tests** for the MCP bridge.
 - Performed multi-branch authority reconciliation that explicitly blocked promotion when a candidate introduced package-shadowing and disabled a closeout enforcement gate.
 
-The pattern matters more than any single feature: **AI output is a candidate, not completion.**
+The pattern matters more than any single feature: **AI-generated code is a candidate implementation; verification determines whether it ships.**
 
 ## Core Engineering Areas
 
@@ -72,7 +85,7 @@ The pattern matters more than any single feature: **AI output is a candidate, no
 - **Developer tooling:** Python CLIs, repository scanners, GitHub governance, cleanup/consolidation automation, manifests, evidence reports, and MCP tooling.
 - **Testing & reliability:** pytest, regression tests, TDD, mutation/negative controls, smoke tests, real-path verification, and fail-closed validation.
 - **Infrastructure & deployment:** GitHub Actions, self-hosted runners, Linux/Ubuntu, Nginx, Tailscale, systemd, Docker/Compose, SFTP, HTTPS verification, and rollback-aware delivery.
-- **Applied systems:** education software, defensive networking, deterministic backtesting/paper-trading systems, OpenCV/PyQt creator tooling, local LLM operations, and Roblox/Rojo systems.
+- **Product engineering:** rapid prototyping, SaaS architecture, internal tools, automation workflows, operational dashboards, and iterative product validation.
 
 ## Larger Systems
 
@@ -84,8 +97,9 @@ Representative systems:
 - **DreamVault** — governance, evidence, planning, provenance, task routing, execution ledger, and operator-control layer.
 - **Dream.OS Swarm Brain** — FastAPI/SQLite live-state and planner service.
 - **Governed website fleet** — changed-site resolution, strict dry-run, SFTP deployment, live HTTPS verification, and rollback controls.
-- **TradingRobotPlug** — deterministic backtesting, paper-execution evidence, and explicit live-readiness boundaries.
 - **GitHub Architect Bot** — evidence-first portfolio audits, task/planner synthesis, branch governance, and guarded repository operations.
+
+Trading and backtesting systems remain part of my technical R&D history, but they are not the primary product direction of this profile.
 
 See **[Engineering Case Studies](CASE_STUDIES.md)** for problem → approach → verification → outcome breakdowns.
 
@@ -96,7 +110,7 @@ See **[Engineering Case Studies](CASE_STUDIES.md)** for problem → approach →
 **AI / Automation:** multi-agent orchestration, prompt/task pipelines, MCP, local LLMs, tool-driven agents, structured verification workflows  
 **Engineering:** Git/GitHub, pytest, regression/mutation/negative-control testing, CLI tooling, debugging, repository governance  
 **Infrastructure:** Linux/Ubuntu, Nginx, Tailscale, systemd, Docker/Compose, SFTP, GitHub Actions, self-hosted runners  
-**Additional:** PyQt/OpenCV, defensive networking, deterministic backtesting, Ollama/local AI operations, Roblox/Rojo
+**Product:** SaaS prototyping, workflow automation, internal tools, technical discovery, iterative delivery
 
 ## Resume & Application Material
 
@@ -107,10 +121,10 @@ See **[Engineering Case Studies](CASE_STUDIES.md)** for problem → approach →
 - **[Project Index](PROJECT_INDEX.md)** — portfolio inventory and project-maturity boundaries.
 - **[Application Pack Guide](APPLICATION_PACK.md)** — role-family selection and tailoring workflow.
 
-## Primary Role Direction
+## Primary Direction
 
-**Automation / AI workflow / internal tools engineering**, with adjacent fit for implementation engineering, QA/test automation, backend development, developer tooling, and technical operations.
+**Automation / AI workflow engineering + focused SaaS product development**, with adjacent fit for implementation engineering, QA/test automation, backend development, developer tooling, and technical operations.
 
 ## Engineering Principle
 
-> Orchestrate fast. Verify hard. Promote only what survives proof.
+> Orchestrate fast. Verify hard. Ship what solves a real problem.
