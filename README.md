@@ -16,7 +16,7 @@ If you are reviewing this profile for engineering ability, start here:
 
 | Public project | What to inspect | Verification signal |
 | --- | --- | --- |
-| **[AgentTools / WE ARE SWARM](https://github.com/Victor-Dixon/AgentTools)** | Python package structure, multi-agent coordination, MCP/CLI entry points, conflict/work-proof systems | GitHub Actions runs pytest, coverage/import checks, security scan, and import audit |
+| **[AgentTools / WE ARE SWARM](https://github.com/Victor-Dixon/AgentTools)** | Python package structure, multi-agent coordination, MCP/CLI entry points, conflict/work-proof systems | Blocking package/core gate checks clean-wheel installation and focused tests; a broader legacy audit is advisory |
 | **[ProjectScanner](https://github.com/Victor-Dixon/projectscanner)** | Repository scanning, source-structure extraction, JSON/Markdown evidence exports, explicit known unknowns | `pytest -q` regression gate and reproducible local scan path |
 | **[Network Scanner](https://github.com/Victor-Dixon/network-scanner)** | ARP discovery, TCP/banner helpers, vulnerability/reputation tooling, experimental anomaly detection | Documented regression testing plus explicit non-production boundaries |
 | **[HomeSchool Mastery](https://github.com/Victor-Dixon/HomeSchool_Mastery)** | Flask/Jinja/SQLite app, student/admin workflows, local persistence, mastery/game systems | Canonical pytest suite plus explicit learner-data safety guidance |
@@ -25,7 +25,7 @@ If you are reviewing this profile for engineering ability, start here:
 
 I approach automation as an implementation problem: understand the existing workflow and systems, define boundaries and success criteria, integrate the smallest viable change, verify it in the real environment, and leave a clear operator handoff. I am developing this as my forward-deployed engineering specialization; I do not represent portfolio projects as completed paid client engagements or claim that every historical system is production-ready.
 
-**Start with the [25-repository branch-governance case study](CASE_STUDY_BRANCH_GOVERNANCE.md)** for a dated example of technical discovery, risk classification, guarded execution, and the difference between recorded evidence and pending verification. See [Engineering Case Studies](CASE_STUDIES.md) for the rest of the portfolio and [Engineering Proof](ENGINEERING_PROOF.md) for runnable public code.
+**Start here:** [FDE delivery model](FDE_DELIVERY_MODEL.md) explains how I would scope, integrate, verify, and hand over a bounded implementation. The [25-repository branch-governance case study](CASE_STUDY_BRANCH_GOVERNANCE.md) provides a dated example of discovery, risk classification, and guarded execution with outstanding verification clearly marked. See [Engineering Case Studies](CASE_STUDIES.md) for the wider portfolio and [Engineering Proof](ENGINEERING_PROOF.md) for runnable public code.
 
 ### Implementation stack
 
