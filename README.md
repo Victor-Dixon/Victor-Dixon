@@ -1,8 +1,8 @@
 # Victor Dixon
 
-**Automation Developer · AI Systems Orchestrator · SaaS Builder**
+**AI Automation Engineer · Systems Architect · Forward-Deployed Engineering Focus**
 
-I build Python automation, multi-agent systems, developer tooling, repository intelligence, deployment workflows, and local-first applications.
+I build and integrate Python automation, AI-agent tooling, repository intelligence, and deployment workflows for real operational environments. My work spans technical discovery, implementation, verification, and handoff—not just prototypes.
 
 I use AI coding agents as engineering leverage. I own the parts that determine whether the output is actually useful: **system architecture, task decomposition, authority boundaries, parallel-agent orchestration, verification strategy, integration decisions, and release readiness**.
 
@@ -20,6 +20,21 @@ If you are reviewing this profile for engineering ability, start here:
 | **[ProjectScanner](https://github.com/Victor-Dixon/projectscanner)** | Repository scanning, source-structure extraction, JSON/Markdown evidence exports, explicit known unknowns | `pytest -q` regression gate and reproducible local scan path |
 | **[Network Scanner](https://github.com/Victor-Dixon/network-scanner)** | ARP discovery, TCP/banner helpers, vulnerability/reputation tooling, experimental anomaly detection | Documented regression testing plus explicit non-production boundaries |
 | **[HomeSchool Mastery](https://github.com/Victor-Dixon/HomeSchool_Mastery)** | Flask/Jinja/SQLite app, student/admin workflows, local persistence, mastery/game systems | Canonical pytest suite plus explicit learner-data safety guidance |
+
+## Forward-Deployed Engineering
+
+I approach automation as an implementation problem: understand the existing workflow and systems, define boundaries and success criteria, integrate the smallest viable change, verify it in the real environment, and leave a clear operator handoff. I am developing this as my forward-deployed engineering specialization; I do not represent portfolio projects as completed paid client engagements or claim that every historical system is production-ready.
+
+**Start with the [25-repository branch-governance case study](CASE_STUDY_BRANCH_GOVERNANCE.md)** for a dated example of technical discovery, risk classification, guarded execution, and the difference between recorded evidence and pending verification. See [Engineering Case Studies](CASE_STUDIES.md) for the rest of the portfolio and [Engineering Proof](ENGINEERING_PROOF.md) for runnable public code.
+
+### Implementation stack
+
+- **Discover:** [ProjectScanner](https://github.com/Victor-Dixon/projectscanner) generates repository inventories and structured technical evidence.
+- **Govern:** DreamVault records task authority, approval boundaries, decision artifacts, and closeout evidence; this operational repository is private.
+- **Execute and verify:** Dream.OS runtime components and public [AgentTools](https://github.com/Victor-Dixon/AgentTools) provide task/coordination and verification primitives. The exact current consolidated runtime and deployment readiness remain subject to independent verification.
+- **Deploy and hand off:** CI, VPS and website workflows connect the implementation to operator-facing reports, monitoring, and explicit recovery procedures.
+
+These are portfolio components with documented responsibilities, **not** a claim that every integration is currently deployed as a single production product.
 
 ## How I Work With AI
 
@@ -101,7 +116,7 @@ Representative systems:
 
 Trading and backtesting systems remain part of my technical R&D history, but they are not the primary product direction of this profile.
 
-See **[Engineering Case Studies](CASE_STUDIES.md)** for problem → approach → verification → outcome breakdowns.
+See **[Engineering Case Studies](CASE_STUDIES.md)** for problem → approach → verification → outcome breakdowns, including the [branch-governance case study](CASE_STUDY_BRANCH_GOVERNANCE.md).
 
 ## Technical Profile
 
@@ -123,7 +138,7 @@ See **[Engineering Case Studies](CASE_STUDIES.md)** for problem → approach →
 
 ## Primary Direction
 
-**Automation / AI workflow engineering + focused SaaS product development**, with adjacent fit for implementation engineering, QA/test automation, backend development, developer tooling, and technical operations.
+**AI automation and forward-deployed engineering**, with focused SaaS development and adjacent implementation engineering, QA/test automation, backend development, developer tooling, and technical operations.
 
 ## Engineering Principle
 
