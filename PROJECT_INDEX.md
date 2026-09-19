@@ -2,6 +2,12 @@
 
 This is the portfolio inventory behind the resume. It distinguishes **featured evidence**, **supporting evidence**, and **inventory-only/private work** so recruiter-facing documents can be complete without pretending every repository has the same maturity.
 
+## Forward-deployed engineering review path
+
+Start with the [delivery model](FDE_DELIVERY_MODEL.md) for how I would discover an existing workflow, agree on a bounded implementation, validate behavior, deploy under explicit authority, and hand off operations. The [branch-governance case study](CASE_STUDY_BRANCH_GOVERNANCE.md) illustrates that operating pattern in my own multi-repository portfolio; final retirement reconciliation remains open. [Engineering Proof](ENGINEERING_PROOF.md) links to runnable public implementations and documented limitations.
+
+**Runtime authority note:** `Dream.os-Core` is a historical/runtime component retained for consolidation evidence; its README's canonical-core wording must not be taken as independent proof that it is the live, consolidated Dream.OS runtime. That authority and current production health require separate verification.
+
 ## Featured / Strongest Hiring Evidence
 
 | Repository / system | Visibility | Domain | Recruiter use |
@@ -10,7 +16,7 @@ This is the portfolio inventory behind the resume. It distinguishes **featured e
 | **projectscanner** | Public | Repository scanning, source-structure extraction, GitHub/local inventory, JSON/Markdown intelligence exports | Featured |
 | **network-scanner** | Public | Defensive Python networking, ARP discovery, TCP/banner helpers, vulnerability lookup, reputation integration, anomaly research | Featured |
 | **HomeSchool_Mastery** | Public | Flask/Jinja/SQLite local-first learning app, lessons, practice, games, mastery, admin, optional local AI | Featured |
-| **Dream.os-Core / Dream.OS** | Private | Message-driven multi-agent runtime, task transport, guarded execution, relay lifecycle, tests/governance | Sanitized case study |
+| **Dream.OS runtime / Dream.os-Core history** | Private | Message-driven runtime and historical core evidence; the current consolidated execution authority and deployment state require fresh verification | Sanitized case study; runtime authority unverified |
 | **DreamVault** | Private | Governance/intelligence/evidence store, project intelligence, closeouts, policies, RAG/retrieval, planning artifacts | Sanitized case study |
 | **dreamos-brain** | Private | FastAPI/SQLite live-state, planner consolidation, feed export, queue classification, advisory search, VPS runtime | Featured private evidence |
 | **websites** | Private | Multi-domain website SSOT, deployment automation, SkyMotion/product surfaces, static/content fleet, CI/CD and live verification | Sanitized case study |
