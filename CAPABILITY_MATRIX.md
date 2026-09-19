@@ -4,9 +4,23 @@ This document is the broad portfolio layer behind the shorter resumes. It separa
 
 ## Positioning
 
-**Primary:** Automation Developer · AI Workflow Engineer · Internal Tools Builder
+**Primary direction:** AI Automation Engineer · Forward-Deployed Engineering Focus · Internal Tools Builder
 
-**Strong adjacent lanes:** Implementation Engineering · QA/Test Automation · Technical Operations · Application Support · Junior Software Development
+**Adjacent roles:** Implementation Engineering · AI Workflow Engineering · QA/Test Automation · Technical Operations · Backend Development
+
+**Evidence standard:** This matrix summarizes project work and technical exposure, not a claim of prior employment under the FDE title. See the [delivery model](FDE_DELIVERY_MODEL.md) for the proposed customer implementation lifecycle and the [branch-governance case study](CASE_STUDY_BRANCH_GOVERNANCE.md) for dated portfolio evidence.
+
+## FDE delivery evidence and remaining gates
+
+| Stage | Existing portfolio evidence | What is not yet established |
+| --- | --- | --- |
+| Technical discovery | ProjectScanner source inventory and structured outputs; portfolio classification work | A documented customer discovery interview and validated business-specific success metric |
+| Integration | Python CLIs, FastAPI/Flask services, task/message contracts, and operational adapters | An authorized, end-to-end customer integration with representative acceptance tests |
+| Governance and safety | DreamVault decision records, exact-ref branch guards, fail-closed task controls | Independently reconciled final branch-cleanup receipts and current cross-repository runtime authority |
+| Verification | pytest gates, negative controls, Git/CI evidence, and deployment verification tools | One publicly replayable, sanitized end-to-end trace linking input to final operational outcome |
+| Deployment and handoff | VPS, CI, SFTP, private API, and operator-runbook project experience | A completed customer handoff and independently verified current operating status |
+
+Unverified items are **next proof targets**, not completed employment or product-readiness claims.
 
 ## Software Engineering
 
