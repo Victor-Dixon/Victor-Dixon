@@ -18,10 +18,10 @@ I intentionally document incomplete, experimental, blocked, and legacy paths ins
 
 What to verify:
 
-- installable Python package metadata for `swarm-mcp`;
+- Python import package `swarm_mcp` and distribution identity `we-are-swarm-agenttools` (the unrelated PyPI distribution named `swarm-mcp` is **not** this project);
 - multi-agent messaging, memory, task coordination, consensus, conflict detection, work-proof and verification components;
 - CLI and MCP server entry points;
-- GitHub Actions CI that installs the development package, runs pytest, checks import-healer coverage, runs a security scan, and audits imports;
+- GitHub Actions blocking package/core gate (clean-wheel install, package metadata, CLI/import smoke, and focused tests); separate legacy-repository audit checks are advisory;
 - current blockers and release limitations documented instead of hidden.
 
 Representative verification path:
@@ -30,7 +30,9 @@ Representative verification path:
 git clone https://github.com/Victor-Dixon/AgentTools.git
 cd AgentTools
 python -m pip install -e ".[dev]"
-pytest tests/ -v
+python -c "import swarm_mcp; import agent_tools; print('imports: PASS')"
+swarm --help
+# For the release gate, inspect the current .github/workflows/swarm_ci.yml
 ```
 
 Engineering signal: reusable coordination infrastructure rather than a single generated demo.
@@ -129,7 +131,7 @@ Representative private systems include:
 - TradingRobotPlug — deterministic backtesting and paper-readiness work;
 - GitHub Architect Bot — portfolio intelligence and governed repository operations.
 
-See [CASE_STUDIES.md](CASE_STUDIES.md) and [CAPABILITY_MATRIX.md](CAPABILITY_MATRIX.md).
+See [CASE_STUDIES.md](CASE_STUDIES.md), the [branch-governance case study](CASE_STUDY_BRANCH_GOVERNANCE.md), and [CAPABILITY_MATRIX.md](CAPABILITY_MATRIX.md).
 
 ## Evidence standards I use
 
