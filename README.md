@@ -8,6 +8,12 @@ I use AI coding agents as engineering leverage. I own the parts that determine w
 
 My focus is increasingly commercial: turning proven automation capabilities into **focused SaaS products, internal tools, and client-ready systems** rather than building technology without a path to adoption or revenue.
 
+## Documented AI Engineering History
+
+My repository history includes Python AI-agent implementation dating to **October 2024**, including agent memory, dispatch, planning, and reasoning modules. Earlier agent/tool architecture is documented in October 2023; that documentation is **not** counted as implemented AI experience. The dated evidence and limitations are recorded in **[Verified AI Development Timeline](AI_DEVELOPMENT_TIMELINE.md)**.
+
+This is independent, project-based source history—not a claim of continuous full-time employment, enterprise production deployment, or paid client leadership.
+
 ## Engineering Proof First
 
 If you are reviewing this profile for engineering ability, start here:
