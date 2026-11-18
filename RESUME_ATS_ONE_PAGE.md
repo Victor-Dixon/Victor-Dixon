@@ -2,17 +2,17 @@
 
 Houston, Texas | GitHub: https://github.com/Victor-Dixon
 
-## AUTOMATION DEVELOPER | AI WORKFLOW ENGINEER | JUNIOR SOFTWARE DEVELOPER
+## AI INTEGRATION & WORKFLOW AUTOMATION ENGINEER | SOFTWARE DEVELOPER
 
 ### Professional Summary
 
-Independent software and automation developer with hands-on experience building Python automation, multi-agent systems, REST APIs, repository intelligence tools, deployment workflows, test infrastructure, and local-first applications. Experienced across software development and technical operations with Python, FastAPI, Flask, SQLite, Git/GitHub, Linux, GitHub Actions, Docker, Nginx, Tailscale, SFTP, pytest, and JSON/YAML workflows. Strong in debugging, implementation, regression testing, CI/CD troubleshooting, source-of-truth governance, and converting repetitive technical work into reliable automated processes.
+Independent software and automation developer specializing in AI integration, Python APIs, and reliable workflow automation. I connect tools, replace manual handoffs with bounded processes, and add permission controls, tests, failure handling, and human review where necessary. Hands-on portfolio experience with FastAPI, Flask, SQLite, GitHub Actions, Linux/VPS, Docker, pytest, and JSON/YAML contracts. Seeking AI integration, automation engineering, implementation, backend, QA, and junior developer opportunities; portfolio projects are not presented as paid client deployments.
 
 ### Technical Skills
 
 **Languages:** Python, JavaScript/TypeScript, HTML/CSS, PowerShell, Bash; project experience with Java and Luau  
 **Backend/Data:** FastAPI, Flask, Jinja, REST APIs, SQLite, JSON, YAML, data/feed exports  
-**Automation/AI:** Multi-agent orchestration, message-driven workflows, task routing, MCP-oriented tooling, Ollama/local LLM operations, RAG/retrieval workflows  
+**Automation/AI integration:** REST/API integrations, event-driven handoffs, structured AI classification and draft workflows, multi-agent orchestration, task routing, MCP-oriented tooling, local LLM operations  
 **Testing/QA:** pytest, regression testing, TDD, smoke tests, negative controls, real-path verification, fail-closed validation  
 **DevOps/Infrastructure:** Git, GitHub, GitHub Actions, Linux/Ubuntu, Docker/Compose, Nginx, Tailscale, systemd, SFTP, HTTPS verification  
 **Additional:** PyQt, OpenCV, defensive networking, deterministic backtesting, Roblox/Rojo
@@ -31,6 +31,11 @@ Independent software and automation developer with hands-on experience building 
 **Armed Security Officer — Houston, Texas | Current**
 
 - Perform independent operational work requiring procedure compliance, situational judgment, observation, escalation, incident documentation, access/security awareness, and reliability.
+
+### Selected Verification and Integration Outcome
+
+**GitHub-to-VPS Verification Bridge — Bounded Engineering Workflow**  
+Implemented and exercised an allowlisted request path for exact-revision isolated tests and completion receipts. Applied source pinning, execution boundaries, CI evidence, and operator review; this is a verified task-specific workflow, **not** evidence of arbitrary autonomous software delivery or full production security assurance.
 
 ### Selected Engineering Projects
 
