@@ -4,11 +4,24 @@ This document is the broad portfolio layer behind the shorter resumes. It separa
 
 ## Positioning
 
-**Primary direction:** AI Automation Engineer · Forward-Deployed Engineering Focus · Internal Tools Builder
+**Primary direction:** AI Integration & Workflow Automation Engineer · Implementation & Reliability Engineering · Internal Tools Builder
 
 **Adjacent roles:** Implementation Engineering · AI Workflow Engineering · QA/Test Automation · Technical Operations · Backend Development
 
 **Evidence standard:** This matrix summarizes project work and technical exposure, not a claim of prior employment under the FDE title. See the [delivery model](FDE_DELIVERY_MODEL.md) for the proposed customer implementation lifecycle and the [branch-governance case study](CASE_STUDY_BRANCH_GOVERNANCE.md) for dated portfolio evidence.
+
+## Primary Specialization: AI Integration and Workflow Reliability
+
+| Capability | Demonstrated portfolio evidence | Current limit |
+| --- | --- | --- |
+| API and business-tool integration | Python, REST endpoints, FastAPI/Flask, workflow adapters and event/data contracts | No completed paid customer integration yet documented |
+| Manual-handoff automation | Structured routing, task messages, status transitions, human review and operator closeout patterns | Each external system needs its own authorization and acceptance tests |
+| AI workflow orchestration | Agent coordination, local models, tool calls, message-driven tasks, fail-closed policy checks | A general-purpose autonomous coding agency is not demonstrated |
+| Controlled execution and verification | Exact-revision GitHub-to-VPS test invocation, isolated verification, receipts and CI checks | Bounded test workflow only; not independent proof of overall security |
+| Reliability and recovery | Regression tests, negative controls, guarded promotion, runner restoration and explicit rollback procedures | Disaster recovery and client-specific SLAs require separate validation |
+| Workflow review and risk assessment | Review of permissions, isolation boundaries, test evidence and operational risk | Not penetration testing, certification, or a production security audit claim |
+
+**Delivery model:** understand one workflow → define authority and success criteria → integrate the smallest useful slice → test failure cases → hand off inspectable evidence. See [FDE delivery model](FDE_DELIVERY_MODEL.md).
 
 ## FDE delivery evidence and remaining gates
 
