@@ -1,12 +1,25 @@
 # Victor Dixon
 
-**AI Automation Engineer · Systems Architect · Forward-Deployed Engineering Focus**
+**AI Integration & Workflow Automation Engineer · Python · APIs · Reliability Engineering**
 
-I build and integrate Python automation, AI-agent tooling, repository intelligence, and deployment workflows for real operational environments. My work spans technical discovery, implementation, verification, and handoff—not just prototypes.
+I connect AI to existing business tools and engineering workflows. My focus is removing manual handoffs, integrating disconnected systems, and making unreliable automations easier to operate, test, and recover.
 
-I use AI coding agents as engineering leverage. I own the parts that determine whether the output is actually useful: **system architecture, task decomposition, authority boundaries, parallel-agent orchestration, verification strategy, integration decisions, and release readiness**.
+I build Python services, APIs, agent workflows, and verification pipelines with explicit permission boundaries, failure handling, and human approval for consequential actions. AI helps implement solutions; I own the integration decisions, testing, and evidence that determine whether the work is usable.
 
-My focus is increasingly commercial: turning proven automation capabilities into **focused SaaS products, internal tools, and client-ready systems** rather than building technology without a path to adoption or revenue.
+**What I can help with:** workflow discovery and repair, system-to-system integrations, AI-assisted intake and draft workflows, CI/automation reliability, and bounded security-and-permissions reviews. I scope one useful outcome at a time rather than promising an autonomous agency or unverified production readiness.
+
+My current focus is converting that engineering experience into bounded paid delivery and focused products. Portfolio work is not represented here as completed client engagements.
+
+## What I Deliver
+
+| Business problem | Typical bounded outcome | Acceptance evidence |
+| --- | --- | --- |
+| Repeated copy/paste between tools | One authorized API or event-driven handoff | Test records, duplicate handling, failure/retry behavior |
+| Manual intake and response preparation | Classify incoming items and draft into an existing human review queue | Held-out cases, exceptions, and no automatic send |
+| Fragile AI or GitHub automation | Permission-scoped workflow, isolated execution, clear recovery | Exact-revision tests, CI and receipts, negative cases |
+| Complex agent coordination | Smaller ownership and approval boundaries | Observable state transitions and explicit operator handoff |
+
+**Representative integration case:** a fixed-operation GitHub-to-VPS verification workflow accepted bounded requests, checked exact source revisions, ran isolated tests, and returned inspectable completion receipts. This demonstrates **bounded verification**, not arbitrary remote execution, general prompt-injection immunity, or autonomous coding delivery. Detailed operational evidence stays separate from the public portfolio pending sanitization.
 
 ## Engineering Proof First
 
