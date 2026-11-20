@@ -21,6 +21,12 @@ My current focus is converting that engineering experience into bounded paid del
 
 **Representative integration case:** a fixed-operation GitHub-to-VPS verification workflow accepted bounded requests, checked exact source revisions, ran isolated tests, and returned inspectable completion receipts. This demonstrates **bounded verification**, not arbitrary remote execution, general prompt-injection immunity, or autonomous coding delivery. Detailed operational evidence stays separate from the public portfolio pending sanitization.
 
+## Documented AI Engineering History
+
+My repository history includes Python AI-agent implementation dating to **October 2024**, including agent memory, dispatch, planning, and reasoning modules. Earlier agent/tool architecture is documented in October 2023; that documentation is **not** counted as implemented AI experience. The dated evidence and limitations are recorded in **[Verified AI Development Timeline](AI_DEVELOPMENT_TIMELINE.md)**.
+
+This is independent, project-based source history—not a claim of continuous full-time employment, enterprise production deployment, or paid client leadership.
+
 ## Engineering Proof First
 
 If you are reviewing this profile for engineering ability, start here:
